@@ -1,0 +1,9 @@
+{
+    "C-1": {
+        "C-4": {
+            "customerId": "C-4",
+            "supplierId": "S-1",
+            "actions": ["list"]
+        }
+    }
+}
